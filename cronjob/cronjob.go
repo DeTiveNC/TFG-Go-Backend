@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	api_obtainer "TFG-Go-Backend/api-obtainer"
+	"TFG-Go-Backend/api-obtainer"
 	"github.com/robfig/cron/v3"
 )
 
