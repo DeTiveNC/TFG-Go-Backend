@@ -38,8 +38,6 @@
     workspace = {
       onStart = {
         check-go = "go version && go env";
-        changes-git-push-username = "git config --global user.name \"DeTiveNC\"";
-        changes-git-push-email = "git config --global user.name \"116792124+DeTiveNC@users.noreply.github.com\"";
       };
     };
   };
