@@ -4,5 +4,5 @@ import "fmt"
 
 func ApiObtainer() {
 	// ApiObtainer logic here
-	fmt.Println("ApiObtainer executed")
+	fmt.Println("ApiObtainer pointer")
 }
